@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/git-job-app%20/static/js/main.684851ba.chunk.js",
+    "main.js.map": "/git-job-app%20/static/js/main.684851ba.chunk.js.map",
+    "runtime-main.js": "/git-job-app%20/static/js/runtime-main.eba92e4d.js",
+    "runtime-main.js.map": "/git-job-app%20/static/js/runtime-main.eba92e4d.js.map",
+    "static/js/2.12e6e921.chunk.js": "/git-job-app%20/static/js/2.12e6e921.chunk.js",
+    "static/js/2.12e6e921.chunk.js.map": "/git-job-app%20/static/js/2.12e6e921.chunk.js.map",
+    "index.html": "/git-job-app%20/index.html",
+    "precache-manifest.5d561b70b4d2609a9a9f3f1307b1ba7e.js": "/git-job-app%20/precache-manifest.5d561b70b4d2609a9a9f3f1307b1ba7e.js",
+    "service-worker.js": "/git-job-app%20/service-worker.js",
+    "static/js/2.12e6e921.chunk.js.LICENSE.txt": "/git-job-app%20/static/js/2.12e6e921.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eba92e4d.js",
+    "static/js/2.12e6e921.chunk.js",
+    "static/js/main.684851ba.chunk.js"
+  ]
+}
